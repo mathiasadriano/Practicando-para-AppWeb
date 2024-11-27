@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IRRIOT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a46bd5a434e4ebc510069cdbf6d47924796f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IRRIOT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IRRIOT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
